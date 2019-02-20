@@ -8,9 +8,8 @@ Information resources covering Ghana formatted for use in your applications
 
 ## Authors
 
-* **Nkwaten** - *Initial work* - [PurpleBooth](https://github.com/Nkwaten)
+* **Nkwaten** - *Initial work* - (https://github.com/Nkwaten)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
