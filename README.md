@@ -1,6 +1,6 @@
 # Ghana Data Resources
 
-Information resources covering Ghana formatted for use in your applications
+Information resources covering Ghana
 
 ## Data Sources
 
